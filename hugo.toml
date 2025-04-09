@@ -26,7 +26,7 @@ author = "Soumyata Jena"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Soumyata's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack Developer", "Coder by morning 🌞, Creator by night 🌚"]
+info = ["Full Stack Developer", "Coder by morning 🌞, Creator by night 🌚 Adding to check deployment"]
 avatarURL = "images/ghiblyprofilepic.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "April 7, 2025"
