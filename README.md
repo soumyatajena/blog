@@ -2,7 +2,7 @@
 
 Welcome to my personal blog built using Hugo!
 
-![Personal Website Dasboard](images/dashboard.jpg)
+![Personal Website Dashboard](images/dashboard.jpg)
 
 ## Features
 - Minimalist design
