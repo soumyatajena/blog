@@ -28,6 +28,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.HUGOPERSONALWEBSITEKEY }}  # Use personal access token instead of GITHUB_TOKEN
           external_repository: soumyatajena/soumyatajena.github.io
           publish_dir: ./public
