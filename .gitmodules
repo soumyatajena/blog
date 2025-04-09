@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/soumyatajena/soumyatajena.github.io.git
+	branch = gh-pages
