@@ -1,6 +1,6 @@
 +++
 title = "Blog"
-slug = "Blog"
+slug = "posts/"
 +++
 
 Coming Soon ...😎
