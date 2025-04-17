@@ -14,4 +14,6 @@ Check out my code here:
 
 🌐 Live Site: https://soumyatajena.github.io/
 
-📙 Medium: https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648
+📙 Medium: 
+1. https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648
+2. https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494
