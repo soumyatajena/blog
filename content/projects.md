@@ -30,7 +30,7 @@ slug = "projects"
 
   <div style="flex: 1 1 30%; max-width: 30%;">
   <h3>Project 3</h3>
-    <img src="/images/cicdpipeline.jpg" alt="microservice" style="width: 100%; height: auto;" />
+    <img src="/images/micro.jpg" alt="microservice" style="width: 100%; height: auto;" />
     <h4>Microservices Architecture</h4>
     <p>Simple microservices architecture secured with JWT (JSON Web Token) authentication using ASP.NET Core</p>
     <p>
@@ -41,7 +41,7 @@ slug = "projects"
 
   <div style="flex: 1 1 30%; max-width: 30%;">
   <h3>Project 4</h3>
-    <img src="/images/dockerkube.png" alt="CI/CD Project" style="width: 100%; height: auto;" />
+    <img src="/images/dockerkube.png" alt="Docker + Kubernetes" style="width: 100%; height: auto;" />
     <h4>CI/CD pipeline using GitHub Actions, Docker, and Kubernetes (Minikube)</h4>
     <p>Automated build & deploy pipeline using GitHub Actions, Docker and Kubernetes</p>
     <p>
